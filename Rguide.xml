@@ -1,15 +1,3 @@
-<?xml version="1.0"?>
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta http-equiv="refresh" content="0; URL=Rguide.html"/>
-    <link rel="stylesheet" type="text/css" href="styleguide.css"/>
-    <title>Google's R Style Guide</title>
-  </head>
-  <body>
-    <h1>Google's R Style Guide</h1>
-    <p>
-      The style guide has moved to <a href="Rguide.html">Rguide.html</a>
-    </p>
-  </body>
-</html>
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce45afb390182f00b3fbad66070acaf1e5b68e9036275be2d17fbf5cedff5d82
+size 482
